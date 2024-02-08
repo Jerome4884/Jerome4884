@@ -31,34 +31,42 @@
 <div align="center">
   <table>
         <tr>
-            <td width="50%">
+            <td width="50%"; height="100%"; margin-top="1px">
                 <h3 align="center">
                     <a href="https://jeromemportfolio.com/" target="_blank" rel="noreferrer">PortFolio</a>
                 </h3>
                 <p align="center">
-                    <a href="https://jeromemportfolio.com/" target="_blank" rel="noreferrer"> <img src="./assets/Screen portfolio 2024-02-08 205824" alt="portfolio"/> </a>
+                    <a href="https://jeromemportfolio.com/" target="_blank" rel="noreferrer"> <img src="/assets/Screen-portfolio.png" alt="portfolio"/> </a>
                     <p align="center">
                        Creation of a web portfolio in HTML, CSS, JS and PHP. A CRUD allows project management. The site includes a carousel and JavaScript animations to enhance the user experience.
                     </p>
             </td>
-            <td width="50%">
+        </tr>
+  </table>
+  <table>
+        <tr>
+            <td width="50%"; height="100%" >
                 <h3 align="center">
-                    <a href="https://lecyberharcelement.fr/" target="_blank" rel="noreferrer">Le cyyberharcèlement</a>
+                    <a href="https://lecyberharcelement.fr/" target="_blank" rel="noreferrer">Le cyberharcèlement</a>
                 </h3>
                 <p align="center">
-                    <a href="https://lecyberharcelement.fr/" target="_blank" rel="noreferrer"> <img src="./assets/Screen accueil cyberH 2023-10-11 170301" alt="cyberharcelement"/> </a>
+                    <a href="https://lecyberharcelement.fr/" target="_blank" rel="noreferrer"> <img src="/assets/Screen-accueil-cyberH.png" alt="cyberharcelement"/> </a>
                     <p align="center">
                         Development of a website dedicated to cyberbullying awareness. Use of the Bulma Framework for the front-end. Users are managed by an authentication and authorization system in PHP. The quiz                         is developed in object-oriented PHP. JavaScript animations are used to enhance the user experience.
                     </p>
             </td>
         </tr>
   </table>
+</div>
 
-- 👨‍💻 My projects are available at: [jeromemportfolio.com](jeromemportfolio.com)
+<div align="left">
+  - 👨‍💻 My projects are available at: [jeromemportfolio.com]
+  
 
-- 📫 How to reach me: **j.moreau4884@hotmail.com**
+  - 📫 How to reach me: **j.moreau4884@hotmail.com**
+</div>
 
 <h3 align="left">Connect with me:</h3>
-  <p align="left">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/jerome-moreau/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-    generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jerome-moreau/" height="30" width="40" /></a>
-  </p>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jerome-moreau/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jerome-moreau/" height="30" width="40" /></a>
+</p>
