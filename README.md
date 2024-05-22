@@ -36,6 +36,20 @@
         <tr>
             <td width="50%"; height="100%"; margin-top="1px">
                 <h3 align="center">
+                    <a href="" target="_blank" rel="noreferrer">BarTist</a>
+                </h3>
+                <p align="center">
+                    <a href="" target="_blank" rel="noreferrer"> <img src="/assets/Screen-portfolio.png" alt="portfolio"/> </a>
+                    <p align="center">
+                       Creation of a web portfolio in HTML, CSS, JS and PHP. A CRUD allows project management. The site includes a carousel and JavaScript animations to enhance the user experience.
+                    </p>
+            </td>
+        </tr>
+  </table>
+  <table>
+        <tr>
+            <td width="50%"; height="100%"; margin-top="1px">
+                <h3 align="center">
                     <a href="https://jeromemportfolio.com/" target="_blank" rel="noreferrer">PortFolio</a>
                 </h3>
                 <p align="center">
