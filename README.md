@@ -39,9 +39,9 @@
                     <a href="" target="_blank" rel="noreferrer">BarTist</a>
                 </h3>
                 <p align="center">
-                    <a href="" target="_blank" rel="noreferrer"> <img src="/assets/Screen-portfolio.png" alt="portfolio"/> </a>
+                    <a href="" target="_blank" rel="noreferrer"> <img src="/assets/6-Screen-search-artist.png" alt="BarTist"/> </a>
                     <p align="center">
-                       Creation of a web portfolio in HTML, CSS, JS and PHP. A CRUD allows project management. The site includes a carousel and JavaScript animations to enhance the user experience.
+                       Design of an application to put venues organising parties in touch with artists looking for stages.
                     </p>
             </td>
         </tr>
