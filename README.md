@@ -14,9 +14,7 @@ I started a career change as a web developer, which turned my interest in IT int
     
 With a degree in web and mobile web development and intensive training in JavaScript fullstack development at La Capsule, I'm now putting my versatile skills to work in the tech world on ambitious projects.
 
-My atypical background, from military discipline to the demands of web development, has given me invaluable rigour and adaptability. I've successfully completed a number of projects, ranging from the design of dynamic websites to the creation of mobile applications, using a variety of technologies such as React, Node.js, MongoDB and PHP.
-
-Translated with DeepL.com (free version) 👋
+My atypical background, from military discipline to the demands of web development, has given me invaluable rigour and adaptability. I've successfully completed a number of projects, ranging from the design of dynamic websites to the creation of mobile applications, using a variety of technologies such as React, Node.js, MongoDB and PHP. 👋
   
    
 </p>
