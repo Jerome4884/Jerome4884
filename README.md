@@ -26,7 +26,7 @@ My atypical background, from military discipline to the demands of web developme
 </p>
 
 
-<h1 align="center">My latest projects 👨‍💻</h1>
+<h1 align="center">My projects 👨‍💻</h1>
 <div align="center">
   <table>
         <tr>
