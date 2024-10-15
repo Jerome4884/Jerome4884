@@ -73,7 +73,7 @@ My atypical background, from military discipline to the demands of web developme
 </div>
 
 <div align="left">
-  - 👨‍💻 My projects are available at: [portfolio-jerome.vercel.app]
+  - 👨‍💻 My projects are available at: <a href ="https://portfolio-jerome.vercel.app/">
   
 
   - 📫 How to reach me: **j.moreau4884@hotmail.com**
